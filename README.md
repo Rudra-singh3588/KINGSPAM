@@ -3,3 +3,4 @@
 Mᴀɴᴀɢᴇᴅ Bʏ: [RUDRA🤫](https://t.me/rudra_singh_ll)
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rudra-singh3588)
